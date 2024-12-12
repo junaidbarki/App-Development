@@ -12,7 +12,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             Text(
                 text = "Hello Android!",
-             color = Color.Red
+             color = Color.Gray
             )
         }
     }
