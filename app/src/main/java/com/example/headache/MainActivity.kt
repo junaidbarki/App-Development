@@ -11,7 +11,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             Text(
-                text = "Hello Android!",
+                text = "Hello Android with Kotlin!",
              color = Color.Gray
             )
         }
